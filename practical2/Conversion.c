@@ -3,6 +3,7 @@
 
 int main(void) {
 
+
 /* Declare variables */
    int i,inum,tmp,numdigits;
    float fnum;
